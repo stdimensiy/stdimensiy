@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey! Nice to see you. <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+I am 43 years old and a student... again :-)    
+As the great Lenin bequeathed, learn, learn, and learn again!    
+So I took up this difficult task-learning Java b Kotlin for Android development.    
+And you know what? I'm loving it. Which means I can do it. :-)    
+![StDimensiy GitHub stats](https://github-readme-stats.vercel.app/api?username=stdimensiy&show_icons=true&theme=vue)
+![StDimensiy GitHub toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=stdimensiy&layout=compact&theme=vue)
 
 <!--
 **stdimensiy/stdimensiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
