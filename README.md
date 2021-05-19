@@ -5,7 +5,8 @@ So I took up this difficult task-learning Java and Kotlin for Android developmen
 And you know what? I'm loving it. Which means I can do it. :-)    
 ![StDimensiy GitHub stats](https://github-readme-stats.vercel.app/api?username=stdimensiy&show_icons=true&theme=vue)
 ![StDimensiy GitHub toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=stdimensiy&layout=compact&theme=vue)
-
+---
+<video src="https://user-images.githubusercontent.com/73497940/118815431-e8418280-b8b9-11eb-983d-7071fcddd7c5.mp4"></video>
 <!--
 **stdimensiy/stdimensiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
