@@ -3,12 +3,23 @@ I am 43 years old and a student... again :-)
 As the great Lenin bequeathed, learn, learn, and learn again!    
 So I took up this difficult task-learning Java and Kotlin for Android development.    
 And you know what? I'm loving it. Which means I can do it. :-)    
-![StDimensiy GitHub stats](https://github-readme-stats.vercel.app/api?username=stdimensiy&show_icons=true&theme=vue)
-![StDimensiy GitHub toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=stdimensiy&layout=compact&theme=vue)
+
+
 ---
-| <video src="https://user-images.githubusercontent.com/73497940/118815431-e8418280-b8b9-11eb-983d-7071fcddd7c5.mp4"></video> | <video src="https://user-images.githubusercontent.com/73497940/118871785-9405c500-b8f0-11eb-8b67-95a81184910c.mp4"></video> | <video src="https://user-images.githubusercontent.com/73497940/118872693-843ab080-b8f1-11eb-91a3-fe212b9bfac7.mp4"></video> |
+My progects  / Мои проекты
+| <video src="https://user-images.githubusercontent.com/73497940/118815431-e8418280-b8b9-11eb-983d-7071fcddd7c5.mp4"></video> |
+ <video src="https://user-images.githubusercontent.com/73497940/118871785-9405c500-b8f0-11eb-8b67-95a81184910c.mp4"></video> |
+  <video src="https://user-images.githubusercontent.com/73497940/118872693-843ab080-b8f1-11eb-91a3-fe212b9bfac7.mp4"></video> |
 |:--------------------------------:|:--------------------------------:|:--------------------------------:|
 | Подборки видео | Погодное приложение | Простой калькулятор |
+| (В разработке) | (В разработке)  | (В разработке)  |
+---    
+
+
+Statistics  / Статистика акаунта
+![StDimensiy GitHub stats](https://github-readme-stats.vercel.app/api?username=stdimensiy&show_icons=true&theme=vue)
+![StDimensiy GitHub toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=stdimensiy&layout=compact&theme=vue)
+
 <!--
 **stdimensiy/stdimensiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
