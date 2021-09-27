@@ -9,7 +9,7 @@ And you know what? I'm loving it. Which means I can do it. :-)
 |:--------------------------------:|:--------------------------------:|:--------------------------------:|
 | Подборки видео | Заметки и задачи| Простой калькулятор |
 | `в разработке` | `в разработке` | `в разработке` |
-| <img src="https://github.com/stdimensiy/GeekBrains_Course_Popular_libraries_HW_My_GIT_API_App/blob/master/snapshots/MyGit_8.jpg" width="300" title="Домашний фрагмент"> | <img src="https://github.com/stdimensiy/GeekBrains_Course_Popular_libraries_CP_Dad_approves_of_good_jokes_App/blob/master/snapshots/dadapproves_1.jpg" width="300"> |  |
+| <img src="https://github.com/stdimensiy/GeekBrains_Course_Popular_libraries_HW_My_GIT_API_App/blob/master/snapshots/MyGit_8.jpg" width="300" title="Домашний фрагмент"> | <img src="https://github.com/stdimensiy/GeekBrains_Course_Popular_libraries_CP_Dad_approves_of_good_jokes_App/blob/master/snapshots/dadapproves_1.jpg" width="300" title="Домашний фрагмент"> |  |
 | GitHub API | -- Проект "Папа одобряет" --| Beautiful Pictures Every Day |
 | `в разработке` | `в разработке` | `в разработке` |
 
