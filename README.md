@@ -13,6 +13,8 @@ And you know what? I'm loving it. Which means I can do it. :-)
 | GitHub API | -- Проект "Папа одобряет" --| <a href="https://github.com/stdimensiy/My_PDF_Viewer_App_On_Kotlin">My_PDF_Viewer_App_On_Kotlin</a> |
 | `в разработке` | `в разработке` | `готов` |
 
+## GeekBrains - Faculty Android development    
+## javaRush - Full course +    
 ---
 ## Статистика аккаунта
 ![StDimensiy GitHub stats](https://github-readme-stats.vercel.app/api?username=stdimensiy&show_icons=true&theme=vue)    
